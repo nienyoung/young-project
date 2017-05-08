@@ -40,4 +40,5 @@ int main()
 	{
 		numsize.push_back(counting[word.substr(word.length() - n)]);
 	}
+
 }
